@@ -6,3 +6,7 @@ haters/
 .build/
 layout.md
 variables.env
+sick-fits/frontend/.nyc_output
+sick-fits/frontend/.vscode/launch.json
+sick-fits/frontend/coverage
+
